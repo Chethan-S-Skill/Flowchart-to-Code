@@ -70,9 +70,9 @@ FlowchartToCode/
 ├── README.md                       # Comprehensive documentation
 ├── modules/
 │   ├── __init__.py
-│   ├── vision_processor.py         # Module 1 (Chethan): OpenCV shape & arrow detection
-│   ├── ocr_engine.py               # Module 2 (Tanushri): OCR, semantic blocks & IR builder
-│   ├── code_generator.py           # Module 3 (Harshitha): Polyglot generation, Big-O, unit tests
+│   ├── vision_processor.py         # Module 1 : OpenCV shape & arrow detection
+│   ├── ocr_engine.py               # Module 2 : OCR, semantic blocks & IR builder
+│   ├── code_generator.py           # Module 3 : Polyglot generation, Big-O, unit tests
 │   ├── reverse_engine.py           # Reverse Engine: Python AST to Mermaid Flowchart
 │   ├── sandbox.py                  # Live execution terminal & unit test runner
 │   └── exporter.py                 # Mermaid, PlantUML, JSON, and Report export
